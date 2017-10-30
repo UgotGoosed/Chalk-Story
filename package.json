@@ -1,0 +1,22 @@
+{
+  "name": "chalk-story",
+  "version": "1.0.0",
+  "description": "chalkstory",
+  "main": "story.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UgotGoosed/Chalk-Story.git"
+  },
+  "author": "Michael Ganschow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UgotGoosed/Chalk-Story/issues"
+  },
+  "homepage": "https://github.com/UgotGoosed/Chalk-Story#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
